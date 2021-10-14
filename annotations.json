@@ -2,8 +2,8 @@
 [
   {
     "path": "M 19,-121 A 35.094 35.094 0 0 0 52,-177",
-    "text": "A win against G2 gets SN a tiebreaker out of groups",
-    "team": "TL",
+    "text": "A win against GEN gets LNG a guaranteed tiebreaker out of groups",
+    "team": "LNG",
     "lw": 21,
     "textOffset": [
       -133,
@@ -32,7 +32,7 @@
   },
   {
     "path": "M -2000 0",
-    "text": "Two loses eliminate MCX and TL",
+    "text": "Two loses eliminate TL and MAD",
     "team": "TL",
     "lw": 22,
     "textOffset": [
@@ -50,7 +50,7 @@
     ]
   },
   {
-    "path": "M 263,-53 A 154.833 154.833 0 0 1 207,62",
+    "path": "M 263,-55 A 154.833 154.833 0 0 1 207,62",
     "text": "PSG has a slim chance of getting a tiebreaker without beating DWG",
     "team": "PSG",
     "lw": 24,
